@@ -134,7 +134,7 @@ export function Login() {
             {isSubmitting ? 'Logging in' : 'Login'}
           </button>
 
-          <GoogleOAuthProvider clientId="599177685647-3fdvc82l8h4lisoiqatq8i4qdjsp9mtg.apps.googleusercontent.com">
+          <GoogleOAuthProvider clientId="134468154099-apc6un8gp22f8dadi8tf1kf4o2fv2lnk.apps.googleusercontent.com">
             <Googlelogin />
           </GoogleOAuthProvider>
 
